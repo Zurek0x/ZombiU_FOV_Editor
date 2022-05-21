@@ -1,6 +1,8 @@
 # ZombiU_Noclip
 This is a mod to change the FOV Past the FOV Limiter written in C++ for Windows 7/8/10/11
 
+![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_FOV_Editor/main/media/logo.webp)
+
 # Known Issues/Bugs
 ```
 1a. The players body (Arms/Gun) will appear in front of Camera
@@ -14,6 +16,8 @@ Right Arrow [>] To higher FOV
 Left Arrow [<] To lower FOV
 
 ```
+
+![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_FOV_Editor/main/media/Screenshot_1.png)
 
 # How To Use
 ```
@@ -33,6 +37,8 @@ B. Visual Studio 2022 LEATEST
 # Chane-Log
 > Version 1.2
 > * Published to Github to Public
+
+![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_FOV_Editor/main/media/Screenshot_2.png)
 
 # LICENSE
 ```
