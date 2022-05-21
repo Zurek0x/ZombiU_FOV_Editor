@@ -1,4 +1,4 @@
-# ZombiU_Noclip
+# ZombiU_FOV_Editor
 This is a mod to change the FOV Past the FOV Limiter written in C++ for Windows 7/8/10/11
 
 ![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_FOV_Editor/main/media/logo.webp)
