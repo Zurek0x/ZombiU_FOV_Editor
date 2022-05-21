@@ -1,0 +1,6 @@
+﻿  ZombiU_FOV_Editor.cpp
+C:\Users\dnfki\source\repos\ZombiU_FOV_Editor\ZombiU_FOV_Editor\ZombiU_FOV_Editor.cpp(37,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\dnfki\source\repos\ZombiU_FOV_Editor\ZombiU_FOV_Editor\ZombiU_FOV_Editor.cpp(40,45): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\dnfki\source\repos\ZombiU_FOV_Editor\ZombiU_FOV_Editor\ZombiU_FOV_Editor.cpp(43,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\dnfki\source\repos\ZombiU_FOV_Editor\ZombiU_FOV_Editor\ZombiU_FOV_Editor.cpp(47,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  ZombiU_FOV_Editor.vcxproj -> C:\Users\dnfki\source\repos\ZombiU_FOV_Editor\x64\Debug\ZombiU_FOV_Editor.exe
