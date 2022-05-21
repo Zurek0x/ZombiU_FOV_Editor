@@ -24,7 +24,7 @@ void clear() {
 }
 
 int main() {
-	SetConsoleTitleA("ZombiU Noclip Cheat [ Version: 1.4.2 ]");
+	SetConsoleTitleA("ZombiU FOV Changer [ Version 1.2 ]");
 	// Hook To Process Memory //
 	HWND hwnd = FindWindowA(0, ("ZOMBI"));
 	if (!hwnd) cerr << "CANNOT FIND ZOMBI.EXE" << endl;
